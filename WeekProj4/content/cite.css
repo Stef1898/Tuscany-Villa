@@ -23,14 +23,13 @@ nav#navvy.navbar.navbar-static-top{
 /*Jumbotron*/
 
 .mainSec {
-    
-    background-image: url('../images/Versilia.jpg'), url('../images/tuscany-villas-sant-anna.jpg');
-    height:300px;
+    background-image: url('../images/Fantasy Road Map.png'), url('../images/fantasy_wallpapers_free_download_021.jpg');
+    height: 300px;
     background-position: right, left;
     background-repeat: no-repeat, no-repeat;
-    background-size:auto 100%, 100% 100%;
-    background-color:rgb(71,78,93);
-    color:white;
+    background-size: auto 100%, 100% 100%;
+    background-color: rgb(71,78,93);
+    color: white;
 }
 
 /*Section Headers*/
