@@ -1,4 +1,8 @@
-﻿body {
+﻿* {
+    font-family: 'Slabo 27px', serif;
+}
+
+body {
     background-color:white;
 }
 /*NAVBAR STYLES*/
